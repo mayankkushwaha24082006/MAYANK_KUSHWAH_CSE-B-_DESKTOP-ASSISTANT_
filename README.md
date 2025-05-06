@@ -17,13 +17,13 @@ https://drive.google.com/file/d/1Up3ST7HHeE9p17uaC61rZZulVLH2n7e6/view?usp=drive
 
 * Technologies Used :
 
-● Programming Language: Python
+● Programming Language: Python,
 ● Libraries/Tools:
 
- speech_recognition for capturing voice input
- pyttsx3 for text-to-speech
- tkinter for GUI (optional)
- requests and beautifulsoup4 for web interaction
+ speech_recognition for capturing voice input, 
+ pyttsx3 for text-to-speech,
+ tkinter for GUI (optional),
+ requests and beautifulsoup4 for web interaction,
  smtplib for email sending
 
 * How To Run The Project :
