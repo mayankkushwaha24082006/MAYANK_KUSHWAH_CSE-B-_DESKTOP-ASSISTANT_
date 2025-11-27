@@ -1,4 +1,4 @@
-# MAYANK_KUSHWAH_CSE-B-_DESKTOP-ASSISTANT_
+# Desktop Assistant
 
 * Team Members :
 
